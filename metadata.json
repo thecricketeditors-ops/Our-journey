@@ -1,0 +1,6 @@
+{
+  "name": "Our Story",
+  "description": "An elegant, interactive, and emotional scrapbook celebrating one year of beautiful friendship with Sneha Ji, featuring shared memories, a visual timeline, and heartfelt gratitude.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
